@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bold-limit-1a2a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fe04d0f4-465d-456f-aca1-cff48eb5755a",
+      "database_name": "tight-surf-db9f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
